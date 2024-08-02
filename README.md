@@ -8,6 +8,14 @@
 
 Build a machine learning model to predict employee base salaries using the provided dataset. The goal is to perform data exploration, preprocessing, feature engineering, model building, and evaluation.
 
+**🛠️ Built With:**
+
+**Pandas** - Data manipulation and analysis
+
+**Scikit-learn** - Machine learning library
+
+**matplotlib, seaborn** - Data visualization
+
 **📊 Data Exploration:**
 
 Gain insights into the dataset by performing,
