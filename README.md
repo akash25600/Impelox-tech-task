@@ -15,8 +15,11 @@ Gain insights into the dataset by performing,
 **Statistical Analysis:**   Uncover key features through univariate, bivariate, and multivariate analysis.
 
 **Visualizations:**
+
 **Histogram:**   Understand the distribution of each variable and identify if they are normally distributed.
+
 **Heatmap:**     Measure the strength of relationships between variables, highlighting highly correlated features like Division and Department.
+
 **Boxplot:**     Detect outliers in columns such as Base_Salary, Overtime_Pay, and Longevity_Pay.
 
 **🛠️ Data Preprocessing:**
@@ -24,8 +27,11 @@ Gain insights into the dataset by performing,
 Prepare the dataset for model training using the following steps,
 
 **Handling Missing Values:**   Utilize pandas' fillna method to fill missing values.
+
 **Addressing Outliers:**    Apply capping methods to correct outlier values.
+
 **Encoding Categorical Variables: **  Convert categorical values to numerical format using sklearn's LabelEncoder.
+
 **Data Splitting:**    Split the dataset into training and testing sets with sklearn's train_test_split.
 
 **🔍 Feature Engineering:**
@@ -38,21 +44,25 @@ Experiment with various machine learning algorithms to identify the best-perform
 
 **Linear Regression:**   Achieved the highest accuracy with sklearn's LinearRegression.
 
-MSE: 0.0095
+MSE: 0.0095,
+
 R²: 0.9999
 
 **Decision Tree:**   Implemented using sklearn's DecisionTreeRegressor.
 
-MSE: 6350.4278
+MSE: 6350.4278,
+
 R²: 0.6236
 
 **Random Forest:**   Applied using sklearn's RandomForestRegressor.
 
-MSE: 2621.7932
+MSE: 2621.7932,
+
 R²: 0.8446
 
 **Gradient Boosting:**   Utilized sklearn's GradientBoostingRegressor.
-MSE: 1234.7530
+MSE: 1234.7530,
+
 R²: 0.9268
 
 Linear regression got accuracy compared to other model perfomance.
