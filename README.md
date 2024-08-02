@@ -10,11 +10,11 @@ Build a machine learning model to predict employee base salaries using the provi
 
 **🛠️ Built With:**
 
-**Pandas** - Data manipulation and analysis
+**Pandas** - Data manipulation and analysis - **import pandas as pd**
 
-**Scikit-learn** - Machine learning library
+**Scikit-learn** - Machine learning library - 
 
-**matplotlib, seaborn** - Data visualization
+**matplotlib, seaborn** - Data visualization - **import matplotlib.pyplot as plt, import seaborn as sns**
 
 **📊 Data Exploration:**
 
@@ -25,6 +25,9 @@ Gain insights into the dataset by performing,
 **Visualizations:**
 
 **Histogram:**   Understand the distribution of each variable and identify if they are normally distributed.
+
+![image](https://github.com/user-attachments/assets/874ca808-ce10-4f93-8519-34beede2b6bd)
+
 
 **Heatmap:**     Measure the strength of relationships between variables, highlighting highly correlated features like Division and Department.
 
