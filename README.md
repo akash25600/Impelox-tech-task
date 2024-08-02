@@ -12,7 +12,7 @@ Build a machine learning model to predict employee base salaries using the provi
 
 **Pandas** - Data manipulation and analysis - **import pandas as pd**
 
-**Scikit-learn** - Machine learning library - 
+**Scikit-learn** - Machine learning library  
 
 **matplotlib, seaborn** - Data visualization - **import matplotlib.pyplot as plt, import seaborn as sns**
 
@@ -22,11 +22,20 @@ Gain insights into the dataset by performing,
 
 **Statistical Analysis:**   Uncover key features through univariate, bivariate, and multivariate analysis.
 
-**Visualizations:**
+**Univariate analysis:**
 
 **Histogram:**   Understand the distribution of each variable and identify if they are normally distributed.
 
 ![image](https://github.com/user-attachments/assets/874ca808-ce10-4f93-8519-34beede2b6bd)
+
+
+**Boxplot:**     Detect outliers in columns such as Base_Salary, Overtime_Pay, and Longevity_Pay.
+
+![image](https://github.com/user-attachments/assets/0b489a58-2f8a-488d-8a2a-ea2ad4889a7f)
+
+**Multivariate analysis:**    Average base_salary by gender.
+
+![image](https://github.com/user-attachments/assets/bd442945-04e9-4b2e-b29f-c21d9ead4b40)
 
 
 **Heatmap:**     Measure the strength of relationships between variables, highlighting highly correlated features like Division and Department.
@@ -34,9 +43,7 @@ Gain insights into the dataset by performing,
 ![image](https://github.com/user-attachments/assets/c926bafa-12a5-4c1b-b190-32e843d3af73)
 
 
-**Boxplot:**     Detect outliers in columns such as Base_Salary, Overtime_Pay, and Longevity_Pay.
 
-![image](https://github.com/user-attachments/assets/0b489a58-2f8a-488d-8a2a-ea2ad4889a7f)
 
 
 **🛠️ Data Preprocessing:**
