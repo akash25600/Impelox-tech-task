@@ -31,7 +31,13 @@ Gain insights into the dataset by performing,
 
 **Heatmap:**     Measure the strength of relationships between variables, highlighting highly correlated features like Division and Department.
 
+![image](https://github.com/user-attachments/assets/c926bafa-12a5-4c1b-b190-32e843d3af73)
+
+
 **Boxplot:**     Detect outliers in columns such as Base_Salary, Overtime_Pay, and Longevity_Pay.
+
+![image](https://github.com/user-attachments/assets/0b489a58-2f8a-488d-8a2a-ea2ad4889a7f)
+
 
 **🛠️ Data Preprocessing:**
 
@@ -41,7 +47,10 @@ Prepare the dataset for model training using the following steps,
 
 **Addressing Outliers:**    Apply capping methods to correct outlier values.
 
-**Encoding Categorical Variables: **  Convert categorical values to numerical format using sklearn's LabelEncoder.
+![image](https://github.com/user-attachments/assets/9ec623b9-b3c4-420c-ba0f-34b510ed3853)
+
+
+**Encoding Categorical Variables:**  Convert categorical values to numerical format using sklearn's LabelEncoder.
 
 **Data Splitting:**    Split the dataset into training and testing sets with sklearn's train_test_split.
 
@@ -78,6 +87,11 @@ MSE: 1234.7530,
 R²: 0.9268
 
 Linear regression got accuracy compared to other model perfomance.
+
+**All models:**
+
+![image](https://github.com/user-attachments/assets/e831aeeb-173c-40ae-928a-06b90ae211d7)
+
 
 --------------------------------------------------------------------------------------TASK 1-------------------------------------------------------------
 
